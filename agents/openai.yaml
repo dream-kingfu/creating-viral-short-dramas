@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文爆款短剧创作"
+  short_description: "把中文短剧结构、前三秒钩子和自然网感组合成可拍剧本"
+  default_prompt: "使用 $creating-viral-short-dramas 创作或优化一部中文短剧，并确保钩子在剧情中兑现。"
